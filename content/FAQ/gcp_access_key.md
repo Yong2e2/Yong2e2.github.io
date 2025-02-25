@@ -1,20 +1,4 @@
----
-layout: default
-title: GCP
-nav_order: 26
-parent: 자주하는 질문(FAQ)
----
-
 # GCP
-
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
 
 ---
 

@@ -1,13 +1,4 @@
----
-layout: default
-title: 공통
-nav_order: 23
-parent: 자주하는 질문(FAQ)
----
-
 # OTP는 어떻게 설치하나요?
-
-{: .no_toc }
 
 ---
 

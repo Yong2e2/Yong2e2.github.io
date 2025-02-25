@@ -1,11 +1,3 @@
----
-layout: default
-title: 컨테이너 진단 결과
-nav_order: 2
-parent: 진단 결과
-grand_parent: '[CWPP]'
----
-
 # 상세 진단 결과
 
 선택한 컴플라이언스 기준에 대한 점검 결과를 확인할 수 있습니다. <br />

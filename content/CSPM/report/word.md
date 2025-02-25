@@ -1,11 +1,3 @@
----
-layout: default
-title: 워드 보고서
-nav_order: 20
-parent: 리포팅
-grand_parent: '[CSPM]'
----
-
 # 워드 보고서
 
 워드보고서를 통해 전체 서비스에 대한 총평과 서비스 별 진단 현황을 확인할 수 있으며, <br />

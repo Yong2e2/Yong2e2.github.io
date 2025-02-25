@@ -1,15 +1,4 @@
----
-layout: default
-title: 진단 설정
-nav_order: 2
-has_children: true
-permalink: /docs/CSPM/진단 설정
-parent: '[CSPM]'
----
-
 # 진단 설정
-
-{: .fs-6 .fw-300 }
 
 <br>
 <center>

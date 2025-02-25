@@ -1,11 +1,3 @@
----
-layout: default
-title: 월간 보고서
-nav_order: 21
-parent: 리포팅
-grand_parent: '[CSPM]'
----
-
 # 월간 보고서
 
 이전 진단했던 기록들에 대해 월간 요약 보고서를 제공합니다. <br />

@@ -1,8 +1,9 @@
 import { Footer, Layout, Navbar } from 'nextra-theme-docs';
-import { Banner, Head } from 'nextra/components';
+import { Head } from 'nextra/components';
 import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
 import { ReactNode } from 'react';
+import Image from 'next/image';
 
 export const metadata = {
   // Define your metadata here
@@ -11,7 +12,14 @@ export const metadata = {
 
 const navbar = (
   <Navbar
-    logo={<div>D-CLO</div>}
+    logo={
+      <Image
+        src='/assets/images/D-CLO12.png'
+        alt='D-CLO'
+        width={100}
+        height={100}
+      />
+    }
     // ... Your additional navbar options
   />
 );
@@ -23,10 +31,19 @@ export default async function RootLayout({
   children: ReactNode;
 }) {
   return (
-    <html lang='en' dir='ltr' suppressHydrationWarning>
-      <Head></Head>
+    <html lang='ko' suppressHydrationWarning>
+      <Head />
+
       <body>
-        <Layout navbar={navbar} pageMap={await getPageMap()} footer={footer}>
+        <Layout
+          navbar={navbar}
+          pageMap={await getPageMap()}
+          footer={footer}
+          feedback={{
+            content: null,
+          }}
+          editLink={null}
+        >
           {children}
         </Layout>
       </body>

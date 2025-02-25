@@ -1,11 +1,3 @@
----
-layout: default
-title: 컨테이너 현황
-nav_order: 1
-parent: 진단 결과
-grand_parent: '[CWPP]'
----
-
 # 컨테이너 현황
 
 컨테이너 현황에서 진단을 수행한 클러스터 자산에 대해 Pod 및 Container 정보를 파악할 수 있습니다.

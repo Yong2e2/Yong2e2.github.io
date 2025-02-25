@@ -1,11 +1,3 @@
----
-layout: default
-title: 엑셀 보고서
-nav_order: 19
-parent: 리포팅
-grand_parent: '[CSPM]'
----
-
 # 엑셀 보고서
 
 엑셀보고서를 통해 요약과 상세 결과를 확인할 수 있으며, 서비스가 취약한 이유과 현재 설정된 옵션 정보를 확인할 수 있습니다.

@@ -1,12 +1,3 @@
----
-layout: default
-title: 리포팅
-nav_order: 18
-has_children: true
-permalink: docs/report
-parent: "[CSPM]"
----
-
 # 리포팅
 
 클라우드 취약점에 대한 조치 방법을 제시하고, 보안 상세 가이드를 제공하여 대응할 수 있습니다. <br />

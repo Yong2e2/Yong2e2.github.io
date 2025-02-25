@@ -1,22 +1,6 @@
----
-layout: default
-title: Open API Token
-parent: 설정
-grand_parent: '[CSPM]'
-nav_order: 4
----
-
 # Open API Token
 
-{: .no_toc }
 <br>
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
 
 D-CLO의 기능을 외부 API로 제공합니다.
 {:.no_toc}

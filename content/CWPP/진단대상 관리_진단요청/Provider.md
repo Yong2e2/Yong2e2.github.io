@@ -1,22 +1,6 @@
----
-layout: default
-title: Provider 별 필요 권한
-parent: 진단대상 관리/진단요청
-grand_parent: '[CWPP]'
-nav_order: 1
----
-
 # 진단대상 추가
 
-{: .no_toc }
 <br>
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
 
 - Access Key와 Assume Role에 관련된 내용과 생성방법은 **[자주하는 질문(FAQ)](../../faq)**를 참고해주세요
   {:.no_toc}

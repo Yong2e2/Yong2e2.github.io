@@ -1,20 +1,4 @@
----
-layout: default
-title: NCP
-nav_order: 25
-parent: 자주하는 질문(FAQ)
----
-
 # NCP
-
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
 
 ---
 

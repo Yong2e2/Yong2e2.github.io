@@ -1,20 +1,4 @@
----
-layout: default
-title: AZURE
-nav_order: 27
-parent: 자주하는 질문(FAQ)
----
-
 # AZURE
-
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
 
 ---
 

@@ -1,25 +1,8 @@
----
-layout: default
-title: AWS
-parent: Inventory
-grand_parent: '[CSPM]'
-nav_order: 1
----
-
 # AWS
 
-{: .no_toc }
 <br>
 
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
 **AWS**자산의 인벤토리 및 자산 관리를 기능을 제공합니다.
-{:.no_toc}
 
 ---
 
