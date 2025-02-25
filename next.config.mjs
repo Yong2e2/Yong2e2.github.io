@@ -1,16 +1,23 @@
 import nextra from 'nextra';
 
-const withNextra = nextra({});
+const isProd = process.env.NODE_ENV === 'production';
+const prefix = isProd ? '/' : '';
 
-// GitHub Pages를 위한 설정
-const isProduction = process.env.NODE_ENV === 'production';
-const prefix = isProduction ? 'Yong2e2.github.io' : '';
-
-export default withNextra({
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
   output: 'export',
   images: {
-    unoptimized: true,
+    unoptimized: true, // mandatory, otherwise won't export
   },
-  basePath: isProduction ? `/${prefix}` : '',
-  assetPrefix: isProduction ? `/${prefix}/` : '',
+  basePath: prefix,
+  assetPrefix: prefix,
+  // Optional: Change the output directory `out` -> `dist`
+  // distDir: "build"
+};
+const withNextra = nextra({
+  // ... other Nextra config options
 });
+
+export default withNextra(nextConfig);
