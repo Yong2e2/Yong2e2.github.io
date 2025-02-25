@@ -1,3 +1,9 @@
+---
+title: 진단 설정
+sidebarTitle: 진단 설정
+asIndexPage: true
+---
+
 # 진단 설정
 
 <br>

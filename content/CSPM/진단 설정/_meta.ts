@@ -1,6 +1,8 @@
 export default {
   index: {
     title: '진단 설정',
+    type: 'page',
+    href: '/CSPM/진단설정',
   },
   '진단 대상': {
     title: '진단 대상',

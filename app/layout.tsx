@@ -17,8 +17,12 @@ const navbar = (
       <Image
         src='/assets/images/D-CLO12.png'
         alt='D-CLO'
-        width={100}
-        height={100}
+        width={80}
+        height={80}
+        style={{
+          width: 'auto',
+          height: 'auto',
+        }}
       />
     }
     // ... Your additional navbar options
