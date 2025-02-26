@@ -2,7 +2,7 @@
 
 <br>
 
-- Access Key와 Assume Role에 관련된 내용과 생성방법은 **[자주하는 질문(FAQ)](../../faq)**를 참고해주세요
+- Access Key와 Assume Role에 관련된 내용과 생성방법은 **[자주하는 질문(FAQ)](/FAQ)**를 참고해주세요
   {:.no_toc}
 
 ---

@@ -9,3 +9,12 @@ asIndexPage: true
 사용자 권한을 조회, 삭제, 삽입, 수정 등 사용할 수 있는 권한만 지정하여 관리할 수 있습니다. <br />
 사용자를 새로 등록할 수 있으며, 위에서 생성한 권한을 부여할 수 있습니다. <br />
 사용자가 최초로 생성 될 시, 사용자를 생성 할 때 입력하는 이메일로 최초 비밀번호가 발송되므로, 정확하게 입력하여야 합니다.
+
+import { Cards } from 'nextra/components';
+
+<Cards>
+  <Cards.Card title='Dashboard' href='/CSPM/Settings/Dashboard' />
+  <Cards.Card title='권한 그륩 관리' href='/CSPM/Settings/RoleManagement' />
+  <Cards.Card title='사용자 관리' href='/CSPM/Settings/UserManagement' />
+  <Cards.Card title='Open API Token' href='/CSPM/Settings/OpenAPIToken' />
+</Cards>

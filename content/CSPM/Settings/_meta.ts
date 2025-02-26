@@ -1,7 +1,7 @@
 // Dashboard, 권한 그륩 관리, 사용자 관리, Open API Token
 
 export default {
-  Settings: {
+  index: {
     title: '설정',
     type: 'page',
     href: '/CSPM/Settings',

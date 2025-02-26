@@ -1,7 +1,7 @@
 // Provider 별 필요 권한, 진단대상 추가, 진단대상 그륩 생성, 진단대상 진단요청
 
 export default {
-  DiagnosticTargets: {
+  index: {
     title: '진단대상',
     type: 'page',
     href: '/CWPP/DiagnosticTargets',

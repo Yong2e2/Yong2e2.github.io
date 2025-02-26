@@ -1,7 +1,7 @@
 // index, 알람관리, 알람이력 알람 템플릿
 
 export default {
-  Alerts: {
+  index: {
     title: '알람',
     type: 'page',
     href: '/CSPM/Alerts',

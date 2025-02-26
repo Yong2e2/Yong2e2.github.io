@@ -1,7 +1,7 @@
 // 엑셀 보고서, 워드 보고서, 월간 보고서
 
 export default {
-  Report: {
+  index: {
     title: '리포팅',
     type: 'page',
     href: '/CSPM/Report',

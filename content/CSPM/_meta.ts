@@ -1,4 +1,9 @@
 export default {
+  index: {
+    title: 'CSPM',
+    type: 'page',
+    href: '/CSPM',
+  },
   Dashboard: {
     title: 'Dashboard',
   },
