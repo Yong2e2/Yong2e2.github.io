@@ -1,7 +1,7 @@
 // 공통, AWS, NCP, GCP, AZURE, KT
 
 export default {
-  Common: {
+  common: {
     title: '공통',
   },
   AWS: {
