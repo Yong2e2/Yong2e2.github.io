@@ -28,7 +28,7 @@ export default {
   Settings: {
     title: '설정',
   },
-  Report: {
+  Reports: {
     title: '리포팅',
   },
 };

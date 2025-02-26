@@ -4,7 +4,7 @@ export default {
   index: {
     title: '리포팅',
     type: 'page',
-    href: '/CSPM/Report',
+    href: '/CSPM/Reports',
   },
   ExcelReport: {
     title: '엑셀 보고서',
