@@ -2,28 +2,28 @@ export default {
   Dashboard: {
     title: 'Dashboard',
   },
-  '진단 설정': {
+  DiagnosticSettings: {
     title: '진단 설정',
   },
-  '진단 결과': {
+  DiagnosticResults: {
     title: '진단 결과',
   },
-  '자산 시각화': {
+  AssetVisualization: {
     title: '자산 시각화',
   },
-  컴플라이언스: {
+  Compliance: {
     title: '컴플라이언스',
   },
   Inventory: {
     title: 'Inventory',
   },
-  알람: {
+  Alerts: {
     title: '알람',
   },
-  설정: {
+  Settings: {
     title: '설정',
   },
-  report: {
+  Report: {
     title: '리포팅',
   },
 };

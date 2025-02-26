@@ -23,7 +23,7 @@ export default {
   '######': {
     type: 'separator',
   },
-  '고객 지원': {
+  CustomerSupport: {
     title: '고객 지원',
   },
   '#######': {

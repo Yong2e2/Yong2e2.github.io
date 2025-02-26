@@ -1,3 +1,9 @@
+---
+title: CWPP
+sidebarTitle: CWPP
+asIndexPage: true
+---
+
 # 홈 화면(대시보드)
 
 ---

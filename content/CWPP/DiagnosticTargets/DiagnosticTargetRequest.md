@@ -1,3 +1,9 @@
+---
+title: 진단대상 진단요청
+sidebarTitle: 진단대상 진단요청
+asIndexPage: true
+---
+
 # 진단대상 진단요청
 
 <br>

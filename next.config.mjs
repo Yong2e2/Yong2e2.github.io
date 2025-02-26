@@ -9,12 +9,10 @@ const repository = 'yong2e2.github.io'; // 여기에 실제 레포지토리 이�
 const nextConfig = {
   output: 'export',
   images: {
-    unoptimized: true, // mandatory, otherwise won't export
+    unoptimized: true,
   },
-  basePath: isProduction ? `/${repository}` : '',
-  assetPrefix: isProduction ? `/${repository}/` : '',
-  // Optional: Change the output directory `out` -> `dist`
-  // distDir: "build"
+  basePath: isProduction ? `` : '',
+  assetPrefix: isProduction ? `` : '',
 };
 const withNextra = nextra({});
 

@@ -1,3 +1,9 @@
+---
+title: 설정
+sidebarTitle: 설정
+asIndexPage: true
+---
+
 # 설정
 
 사용자 권한을 조회, 삭제, 삽입, 수정 등 사용할 수 있는 권한만 지정하여 관리할 수 있습니다. <br />

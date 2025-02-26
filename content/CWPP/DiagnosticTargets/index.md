@@ -1,3 +1,9 @@
+---
+title: 진단대상 관리
+sidebarTitle: 진단대상 관리
+asIndexPage: true
+---
+
 # 진단대상 관리
 
 <br>

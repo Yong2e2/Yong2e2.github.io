@@ -4,19 +4,19 @@ export default {
     type: 'page',
     href: '/CSPM/진단설정',
   },
-  '진단 대상': {
+  DiagnosticTargets: {
     title: '진단 대상',
   },
-  '진단 대상 추가': {
+  DiagnosticTargetAdd: {
     title: '진단 대상 추가',
   },
-  '진단 그룹': {
+  DiagnosticGroups: {
     title: '진단 그룹',
   },
-  '예약 진단': {
+  ScheduledDiagnostics: {
     title: '예약 진단',
   },
-  '진단 룰셋': {
+  DiagnosticRulesets: {
     title: '진단 룰셋',
   },
 };
