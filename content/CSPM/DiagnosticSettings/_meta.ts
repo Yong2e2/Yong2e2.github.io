@@ -2,7 +2,7 @@ export default {
   index: {
     title: '진단 설정',
     type: 'page',
-    href: '/CSPM/진단설정',
+    href: '/CSPM/DiagnosticSettings',
   },
   DiagnosticTargets: {
     title: '진단 대상',
