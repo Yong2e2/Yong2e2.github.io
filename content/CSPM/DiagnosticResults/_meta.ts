@@ -14,5 +14,6 @@ export default {
   },
   'month-report': {
     title: '월간 보고서',
+    href: '/CSPM/DiagnosticResults/month-report',
   },
 };
