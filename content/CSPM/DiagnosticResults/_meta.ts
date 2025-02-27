@@ -12,7 +12,7 @@ export default {
   DiagnosticExceptions: {
     title: '진단 예외 처리',
   },
-  MonthlyReportResult: {
+  'month-report': {
     title: '월간 보고서',
   },
 };
