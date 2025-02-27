@@ -1,6 +1,6 @@
 @layer theme;
 
-@import 'nextra-theme-docs/style.css' layer(theme);
+@import './nextra-theme.css' layer(theme);
 
 /**
  * Custom styles

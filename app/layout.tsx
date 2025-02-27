@@ -4,7 +4,7 @@ import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
 import { ReactNode } from 'react';
 import Image from 'next/image';
-import './global.css';
+import './_styles/global.css';
 
 export const metadata = {
   // Define your metadata here
